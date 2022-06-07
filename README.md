@@ -1,3 +1,5 @@
 # rsschool-cv
 
-https://kirillnoviko.github.io/rsschool-cv/cv
+https://kirillnoviko.github.io/rsschool-cv/
+
+
