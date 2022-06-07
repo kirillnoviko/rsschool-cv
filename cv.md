@@ -7,17 +7,19 @@
 ## Summary
 
 My goal is to learn everything new and exciting. I can(love) spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.
-Skills
-
-    HTML
+# Skills:
+* Version control: Git (remote service GitHub).
+* JAVA SE and JAVA EE 
+* Frameworks: Spring , Hibernate.
+* Windows OS, Linux(Ubuntu)
+   
+   
+       HTML
     CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
     JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
     React JS, Redux (intermediate level knowledge).
-    Version control: Git (remote service GitHub).
-    JAVA 
-    Windows OS, Linux(Ubuntu)
-   
 *********
+
 ## Code examples
 ```
 function{color:blue} findLongestWord(text) {
