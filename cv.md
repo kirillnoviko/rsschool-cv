@@ -13,11 +13,6 @@ My goal is to learn everything new and exciting. I can(love) spend a lot of time
 * Frameworks: Spring , Hibernate.
 * Windows OS, Linux(Ubuntu)
    
-   
-       HTML
-    CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
-    JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
-    React JS, Redux (intermediate level knowledge).
 *********
 
 ## Code examples
@@ -42,14 +37,15 @@ function{color:blue} findLongestWord(text) {
 *********
 
 ## Education
-* BSUIR
+* [BSUIR](https://www.bsuir.by/)
     + Faculty of Computers, Systems and Networks
-* ITAcademy
+* [ITAcademy](https://www.it-academy.by/)
     + Java SE and Java EE
+
 *********
 
 ## Experience
-* I have little experience in JS and Frontend developmenet, but i have little experience in java application development
+> I have little experience in JS and Frontend developmenet, but i have little experience in java application development
 ********
 
 ## Languages
@@ -57,3 +53,4 @@ function{color:blue} findLongestWord(text) {
     Russian
     English
     
+
